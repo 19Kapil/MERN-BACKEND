@@ -1,0 +1,14 @@
+{
+    "email": "test@test.com",
+    "username": "kapil",
+    "fullname": "Kapil Parajuli",
+    "title": "Software Developer",
+    "skills": ["JS", "PHP", "JAVA"],
+    "address": "Kathmnadu, Nepal",
+    "job_type": "Full Time",
+    "id": 1,
+    "is_active": true,
+    "followers": ["username123", "user234", "user543"],
+    "followings": ["username123", "user234", "user543", "user555"]
+  }
+  
